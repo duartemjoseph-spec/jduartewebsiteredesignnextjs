@@ -20,13 +20,6 @@ export default function OrderSection() {
           >
             Order Online
           </Link>
-
-          <Link
-            href="https://www.doordash.com/store/peony-palace-elk-grove-93513/97333750/?srsltid=AfmBOoqNoBMjct0Z2mG5GGhpu_pjCfveUPTo00NCo8EAOnkGVbZbfHus"
-            className="rounded-xl bg-[#ff5a2a] px-6 py-3 font-semibold text-white"
-          >
-            DoorDash
-          </Link>
         </div>
       </div>
     </section>
