@@ -12,13 +12,13 @@ export default function Footer() {
         </div>
 
         <div className="flex gap-6 text-sm text-[#cbbfb7]">
-          <Link href="#" className="hover:text-[#ffb3ad]">
+          <Link href="https://www.facebook.com/peonypalaceelkgrove" className="hover:text-[#ffb3ad]">
             Facebook
           </Link>
-          <Link href="#" className="hover:text-[#ffb3ad]">
+          <Link href="https://www.instagram.com/peonypalaceelkgrove" className="hover:text-[#ffb3ad]">
             Instagram
           </Link>
-          <Link href="#" className="hover:text-[#ffb3ad]">
+          <Link href="https://www.yelp.com/biz/peony-palace-elk-grove" className="hover:text-[#ffb3ad]">
             Yelp
           </Link>
         </div>
